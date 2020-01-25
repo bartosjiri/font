@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'bartosjiri';
+    src: url('../fonts/bartosjiri.eot');
+    src: url('../fonts/bartosjiri.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/bartosjiri.woff2') format('woff2'),
+        url('../fonts/bartosjiri.woff') format('woff'),
+        url('../fonts/bartosjiri.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
